@@ -1,7 +1,7 @@
 
 #include <SPI.h>
 #include <Wire.h>
-#include "include/Adafruit_GFX.h"
+#include <Adafruit_GFX.h>
 #include "include/Adafruit_SSD1306_STM32.h"
 
 #include "Fonts/FreeMono/FreeMono9pt7b.h"

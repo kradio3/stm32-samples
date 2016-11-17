@@ -29,7 +29,7 @@ void loop() {
   //delay(50);              // wait for a second
 
   int i;
-  for(i=0; i<50; i++){
+  for(i=0; i<5; i++){
     digitalWrite(LED, HIGH);
     delay(40);    
     digitalWrite(LED, LOW);
